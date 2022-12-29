@@ -1,7 +1,7 @@
 # The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qiBwqVGF2t0gn_QosayJA9XuI0RWEvqC?usp=sharing]
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)] (https://www.kaggle.com/code/shreyansh2626/lottery-ticket-hypothesis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qiBwqVGF2t0gn_QosayJA9XuI0RWEvqC?usp=sharing)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/shreyansh2626/lottery-ticket-hypothesis)
 
 A re-implementation of the paper [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635v5) by Jonathan Frankle and Michael Carbin. This implementation focuses only on applying the hypothesis to Fully Connected networks on MNIST (Section 2 of the paper). It can however be extended to other datasets and architectures.
 
